@@ -8,5 +8,5 @@ Pragnesh Bagary.
 Yogesh Luckshetty. 
 Madhuri Ghattamaneni. 
 
-**Yelp Dataset Link:**
+**Yelp Dataset Link:**  
 https://www.yelp.com/dataset
