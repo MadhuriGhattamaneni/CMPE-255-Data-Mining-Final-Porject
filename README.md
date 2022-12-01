@@ -4,7 +4,7 @@ Github repo for CMPE 255 Data Mining final project.
 
 Team Members:
 
-Adesh Landge
+Adesh Landge \n
 Pragnesh Bagary
 Yogesh Luckshetty
 Madhuri Ghattamaneni
