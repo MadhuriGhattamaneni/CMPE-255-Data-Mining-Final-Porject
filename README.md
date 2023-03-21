@@ -1,4 +1,5 @@
 RESTAURANT SUCCESS PREDICTION BASED ON YELP DATASET
+
 Github repo for CMPE 255 Group3 final project.
 
 <br/>
